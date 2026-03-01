@@ -1,0 +1,5 @@
+/* Reset index.css to prevent interference with App.css */
+body {
+  margin: 0;
+  padding: 0;
+}
